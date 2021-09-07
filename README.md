@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @FeiZhangOfficial
+- 👀 I’m interested in python, Javasript,and currently learning C.
